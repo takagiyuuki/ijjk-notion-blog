@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+>
+> It was created as a personal learning project and is kept for reference only.
+> Dependencies are outdated and may contain known security vulnerabilities.
+> Do not deploy or reuse this code as-is.
+
 # Notion Blog
 
 This is an example Next.js project that shows Next.js' upcoming SSG (static-site generation) support using Notion's **private** API for a backend.
